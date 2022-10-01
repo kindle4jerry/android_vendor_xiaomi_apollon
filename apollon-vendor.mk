@@ -486,4 +486,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
+    Remotecontroller \
     com.android.hotwordenrollment.common.util
